@@ -10,6 +10,7 @@ import './App.css';
 import Particles from 'react-particles-js';
 import Clarifai from 'clarifai';
 
+const CLARIFY_KEY = prompt('Please enter API KEY');
 
 const app = new Clarifai.App({apiKey: CLARIFY_KEY});
 

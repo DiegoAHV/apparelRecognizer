@@ -1,3 +1,5 @@
+Example image link: https://cdn.shopify.com/s/files/1/0162/2116/articles/Love_to_wear_black_denim_jacket_Then_you_are_going_to_love_these_amazing_black_denim_jacket_outfits_for_men._blackdenimjacket_denim_jacket_mensfashion_outfits_menswear_streetstyle_outfitideas_1200x1200.jpg
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
